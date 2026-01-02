@@ -1,1 +1,1 @@
-## ML_project_2(Student_marks)
+## ML_project_2(Student_Average_marks)
