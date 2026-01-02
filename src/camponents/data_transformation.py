@@ -64,6 +64,7 @@ class DataTransformation():
             logging.info('read train and test data')
             logging.info('initate preprocessor objective')
             Preprocessor_obj = self.get_Data_Transformation()
+           
 
             target_feature_column = 'Average_score'
 
